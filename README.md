@@ -1,5 +1,5 @@
 # chessBot
-A bot that plays chess using an engine to compute the best move and a convolutional neural network which predicts the chessboard position from online chessboard screenshots.
+A bot that plays chess using an engine to compute the best move and a [convolutional neural network](https://github.com/Elucidation/tensorflow_chessbot) which predicts the chessboard position from online chessboard screenshots.
 
 The bot needs a starting chess position to start executing moves.
 
