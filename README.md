@@ -18,3 +18,7 @@ The bot needs a starting chess position to start executing moves.
   * Hold T to change the time_to_think (Amount of time for the engine to compute the best move)
 
   * Hold Y to change the num_obs (Numbers of screenshots samples to decide the actual fen of the position)
+
+
+### Demo:
+https://youtu.be/ETfSp82MwKI
