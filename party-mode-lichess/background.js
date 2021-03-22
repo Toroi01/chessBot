@@ -1,7 +1,3 @@
-
-//Chesscom /html/body/div[3]/div/div[2]/div[2]/div[4]/div[1]/button[2]
-//lichess /html/body/div/main/div[1]/div[5]/div/a
-
 var interval = 3000
 
 task = setInterval(function(){
