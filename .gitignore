@@ -17,5 +17,6 @@ praw.ini
 # Ignore tracking files
 *.txt
 !requirements.txt
+!link.txt
 
 !readme_images/*
